@@ -95,8 +95,8 @@ db.json                       # JSON Server database
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
-   cd Moon
+   git clone https://github.com/Moon2658/student-managment-system
+   cd student-managment-system
    ```
 
 2. **Install dependencies**

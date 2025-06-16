@@ -1,0 +1,69 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john.doe@email.com",
+      "rollNumber": "CS001",
+      "department": "Computer Science",
+      "gpa": 3.8,
+      "semester": 6,
+      "phone": "+1234567890",
+      "address": "123 Main St, City",
+      "dateOfBirth": "2000-05-15",
+      "enrollmentDate": "2021-09-01"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane.smith@email.com",
+      "rollNumber": "EE002",
+      "department": "Electrical Engineering",
+      "gpa": 3.9,
+      "semester": 4,
+      "phone": "+1234567891",
+      "address": "456 Oak Ave, City",
+      "dateOfBirth": "2001-03-22",
+      "enrollmentDate": "2022-01-15"
+    },
+    {
+      "id": "3",
+      "name": "Mike Johnson",
+      "email": "mike.johnson@email.com",
+      "rollNumber": "ME003",
+      "department": "Mechanical Engineering",
+      "gpa": 3.2,
+      "semester": 8,
+      "phone": "+1234567892",
+      "address": "789 Pine St, City",
+      "dateOfBirth": "1999-11-08",
+      "enrollmentDate": "2020-08-25"
+    },
+    {
+      "id": "4",
+      "name": "Sarah Moon",
+      "email": "sarah.wilson@email.com",
+      "rollNumber": "BT004",
+      "department": "Biotechnology",
+      "gpa": 3.7,
+      "semester": 2,
+      "phone": "+1234567893",
+      "address": "321 Elm St, City",
+      "dateOfBirth": "2002-07-12",
+      "enrollmentDate": "2023-09-01"
+    },
+    {
+      "id": "5",
+      "name": "David Brown",
+      "email": "david.brown@email.com",
+      "rollNumber": "CS005",
+      "department": "Computer Science",
+      "gpa": 3.5,
+      "semester": 6,
+      "phone": "+1234567894",
+      "address": "654 Maple Ave, City",
+      "dateOfBirth": "2000-12-03",
+      "enrollmentDate": "2021-09-01"
+    }
+  ]
+}
