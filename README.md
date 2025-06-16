@@ -1,12 +1,12 @@
-# Student Management System
-
-A comprehensive React-based Single Page Application for managing student records with full CRUD operations, built with modern web technologies.
-
 ## 🧑‍💻 Submission Details
 
 - **Submitted by**: Moon
 - **Roll No**: F23BDOCS1M01204
 - **Section**: 4th 3M
+
+# Student Management System
+
+A comprehensive React-based Single Page Application for managing student records with full CRUD operations, built with modern web technologies.
 
 ## 🎯 Project Overview
 
